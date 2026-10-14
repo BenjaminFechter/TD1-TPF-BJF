@@ -6,7 +6,7 @@
 
 def arguments():
     """Fonction qui affiche les arguments de la ligne de commande."""
-    
+    c
 
 if __name__ == "__main__":
     arguments()         
